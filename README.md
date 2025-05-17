@@ -1,2 +1,30 @@
-# ale_streams
-Hello! My name is Alexis Negron Lopez and I created this website as a compilation of my favorite websites to watch NBA Streams on using HTML and CSS! I hope you enjoy this small website and the rest of the NBA playoffs!
+# Ale Streams - NBA Streaming Sites
+
+A simple web interface that compiles reliable NBA streaming websites for basketball fans. The site features a clean, responsive design with easy access to various streaming options.
+
+## Features
+
+- Curated list of NBA streaming websites
+- Responsive design that works on both desktop and mobile devices
+- Modern UI with hover animations and clean typography
+- NBA-themed color scheme
+
+## Structure
+
+- `index.html` - Main webpage with streaming links and information
+- `styles.css` - CSS styling with custom variables and responsive design
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with CSS Variables)
+- Responsive Grid Layout
+- Flexbox
+
+## Author
+
+Created by Alexis Negron Lopez
+
+## Note
+
+This project is for educational purposes only. Please respect all applicable laws and regulations regarding sports streaming in your region.
