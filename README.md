@@ -21,6 +21,12 @@ A simple web interface that compiles reliable NBA streaming websites for basketb
 - Responsive Grid Layout
 - Flexbox
 
+## Try it yourself
+
+- If you want to take a look at my page, go to the following link:
+```
+https://alexis0822.github.io/ale_streams/
+```
 ## Author
 
 Created by Alexis Negron Lopez
